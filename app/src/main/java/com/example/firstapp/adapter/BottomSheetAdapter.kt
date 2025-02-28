@@ -98,6 +98,7 @@ class BottomSheetAdapter(
         }
     }
 
+
     override fun getItemCount(): Int {
         return challengeList.size
     }
